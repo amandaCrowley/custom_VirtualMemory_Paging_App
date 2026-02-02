@@ -1,4 +1,4 @@
-# custom_VirtualMemory_Paging_App
+# Custom_VirtualMemory_Paging_App
 
 To start the application run A3.java with command line input as follows: 
 
