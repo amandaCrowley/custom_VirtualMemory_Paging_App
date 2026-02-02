@@ -1,0 +1,15 @@
+FIFO - Fixed-Local Replacement:
+PID  Process Name      Turnaround Time  # Faults  Fault Times
+1    Process1          29               5         {0, 5, 11, 18, 24}
+2    Process2          33               5         {0, 6, 15, 20, 25}
+3    Process3          17               1         {0}
+4    Process4          32               4         {0, 10, 16, 24}
+
+------------------------------------------------------------
+
+FIFO - Variable-Global Replacement:
+PID  Process Name      Turnaround Time  # Faults  Fault Times
+1    Process1          29               5         {0, 5, 11, 18, 24}
+2    Process2          33               5         {0, 6, 15, 20, 25}
+3    Process3          17               1         {0}
+4    Process4          32               4         {0, 10, 16, 24}
