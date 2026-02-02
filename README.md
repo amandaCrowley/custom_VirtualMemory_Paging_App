@@ -1,5 +1,7 @@
 # custom_VirtualMemory_Paging_App
 
+To start the application run A3.java with command line input as follows: 
+
 Your program will accept data from a set of input files, whose names are specified as part of a command line argument. 
 
 Input to your program should be via command line arguments (see also in Section 3.6. Deliverable:), where the arguments are system configurations and the names of files that specify the execution trace of different processes. All processes start execution at time 0, and are entered into the system in the order of the command line arguments (with the third argument being the first process).
